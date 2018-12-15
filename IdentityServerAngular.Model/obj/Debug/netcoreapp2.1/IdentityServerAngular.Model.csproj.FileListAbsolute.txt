@@ -1,0 +1,9 @@
+D:\IdentityServerAngular\IdentityServerAngular.Model\bin\Debug\netcoreapp2.1\IdentityServerAngular.Model.deps.json
+D:\IdentityServerAngular\IdentityServerAngular.Model\bin\Debug\netcoreapp2.1\IdentityServerAngular.Model.dll
+D:\IdentityServerAngular\IdentityServerAngular.Model\bin\Debug\netcoreapp2.1\IdentityServerAngular.Model.pdb
+D:\IdentityServerAngular\IdentityServerAngular.Model\obj\Debug\netcoreapp2.1\IdentityServerAngular.Model.csprojAssemblyReference.cache
+D:\IdentityServerAngular\IdentityServerAngular.Model\obj\Debug\netcoreapp2.1\IdentityServerAngular.Model.csproj.CoreCompileInputs.cache
+D:\IdentityServerAngular\IdentityServerAngular.Model\obj\Debug\netcoreapp2.1\IdentityServerAngular.Model.AssemblyInfoInputs.cache
+D:\IdentityServerAngular\IdentityServerAngular.Model\obj\Debug\netcoreapp2.1\IdentityServerAngular.Model.AssemblyInfo.cs
+D:\IdentityServerAngular\IdentityServerAngular.Model\obj\Debug\netcoreapp2.1\IdentityServerAngular.Model.dll
+D:\IdentityServerAngular\IdentityServerAngular.Model\obj\Debug\netcoreapp2.1\IdentityServerAngular.Model.pdb

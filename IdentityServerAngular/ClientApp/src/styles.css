@@ -1,0 +1,31 @@
+@import "assets/css/ltr/bootstrap.min.css";
+@import "assets/css/rtl/bootstrap.rtl.css";
+@import "assets/css/plugins/metisMenu/metisMenu.min.css";
+@import "assets/css/plugins/timeline.css";
+@import "assets/css/rtl/sb-admin-2.css";
+@import "assets/css/plugins/morris.css";
+@import "assets/css/font-awesome/font-awesome.min.css";
+
+@font-face {
+  font-family: tanha;
+  src: url("assets/fonts/persian/Tanha-FD.eot");
+  src: url("assets/fonts/persian/Tanha-FD.ttf") format("ttf"),
+    url("assets/fonts/persian/Tanha-FD.woff") format("woff"),
+    url("assets/fonts/persian/Tanha-FD.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6, ul, li, a, button, input, label {
+  font-family: tanha !important;
+  color: #000000 !important;
+}
+
+.bg-login-style {
+  background: url('assets/images/moonlight.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+

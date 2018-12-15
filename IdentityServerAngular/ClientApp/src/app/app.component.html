@@ -1,0 +1,10 @@
+<div *ngIf="isValid" id="wrapper">
+  <app-navbar></app-navbar>
+  <div id="page-wrapper">
+    <div class="row">
+    </div>
+  </div>
+</div>
+
+
+<app-login *ngIf="!isValid" (emitter)="onAddSubmit($event)"></app-login>
